@@ -19,7 +19,7 @@ public class Example5 {
         }
         System.out.println("===================================");
 
-        int[][] secondArray = new int[b][a]; // создание транспонированного массива
+        int[][] secondArray = new int[b][a]; // создание массива
         for (int i = 0 ; i <b; i++) {
             for (int j = 0 ; j <a; j++) {
                 secondArray[i][j] = firstArray[j][i]; // подстановка обратных значенией

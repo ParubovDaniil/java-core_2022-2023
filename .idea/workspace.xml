@@ -1,19 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="866ceae7-5527-4ed9-bea2-e226a948290e" name="Changes" comment="lr3">
-      <change afterPath="$PROJECT_DIR$/src/lr4/Error.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example08.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr4/Example9.java" afterDir="false" />
+    <list default="true" id="866ceae7-5527-4ed9-bea2-e226a948290e" name="Changes" comment="lr4">
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr5/Example6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr4/Example5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr4/Example5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr4/Example7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr4/Example7.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,13 +44,39 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Error">
-    <configuration name="Error" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Error" />
+  <component name="RunManager" selected="Application.Example4">
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr5.Example1" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr5.Example2" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr5.Example4" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -62,11 +85,11 @@
       </method>
     </configuration>
     <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example5" />
+      <option name="MAIN_CLASS_NAME" value="lr5.Example5" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -75,37 +98,11 @@
       </method>
     </configuration>
     <configuration name="Example6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example6" />
+      <option name="MAIN_CLASS_NAME" value="lr5.Example6" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example7" />
-      <module name="java-core_2022-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr4.Example8" />
-      <module name="java-core_2022-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr4.*" />
+          <option name="PATTERN" value="lr5.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -115,11 +112,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Error" />
-        <item itemvalue="Application.Example8" />
-        <item itemvalue="Application.Example7" />
-        <item itemvalue="Application.Example6" />
+        <item itemvalue="Application.Example4" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Example2" />
         <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example6" />
       </list>
     </recent_temporary>
   </component>
@@ -160,7 +157,14 @@
       <option name="project" value="LOCAL" />
       <updated>1670698247215</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lr4">
+      <created>1671272453742</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1671272453742</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +196,8 @@
     <MESSAGE value="task_1293" />
     <MESSAGE value="lr2" />
     <MESSAGE value="lr3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lr3" />
+    <MESSAGE value="lr4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr4" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -212,19 +217,9 @@
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr4/Example2.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/lr4/Example3.java</url>
           <line>13</line>
           <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/lr4/Example7.java</url>
-          <line>30</line>
-          <option name="timeStamp" value="24" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
