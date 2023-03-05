@@ -1,21 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="866ceae7-5527-4ed9-bea2-e226a948290e" name="Changes" comment="20 tasks">
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example1/Primer9.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example2/Example2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example3/Example3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example3/Poem.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr8/Example3/Result.txt" afterDir="false" />
+    <list default="true" id="866ceae7-5527-4ed9-bea2-e226a948290e" name="Changes" comment="lr8">
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example13.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example14.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task1/Example9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task2/Example1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task2/Example2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr9/Task2/Example3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,6 +29,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -66,12 +70,45 @@
     </key>
   </component>
   <component name="RunManager" selected="Application.Example3">
-    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.Example2.Example2" />
+    <configuration name="Example1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.Task2.Example1" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr8.Example1.*" />
+          <option name="PATTERN" value="lr9.Task2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example14" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.Task1.Example14" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr9.Task1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example16" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example16" />
+      <module name="java-core_2022-2023" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr9.Task2.Example2" />
+      <module name="java-core_2022-2023" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lr9.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,37 +130,11 @@
       </method>
     </configuration>
     <configuration name="Example3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.Example3.Example3" />
+      <option name="MAIN_CLASS_NAME" value="lr9.Task2.Example3" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr8.Example3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr7.Example5.Example5" />
-      <module name="java-core_2022-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr7.Example5.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Primer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr8.Example1.Primer1" />
-      <module name="java-core_2022-2023" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="lr8.Example1.*" />
+          <option name="PATTERN" value="lr9.Task2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,10 +145,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Example3" />
+        <item itemvalue="Application.Example16" />
         <item itemvalue="Application.Example2" />
-        <item itemvalue="Application.lr8.Example2.Example3" />
-        <item itemvalue="Application.Primer1" />
-        <item itemvalue="Application.Example5" />
+        <item itemvalue="Application.Example1" />
+        <item itemvalue="Application.Example14" />
       </list>
     </recent_temporary>
   </component>
@@ -213,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1673627820365</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="lr8">
+      <created>1673792626795</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1673792626796</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +268,8 @@
     <MESSAGE value="lr6" />
     <MESSAGE value="lr7" />
     <MESSAGE value="20 tasks" />
-    <option name="LAST_COMMIT_MESSAGE" value="20 tasks" />
+    <MESSAGE value="lr8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lr8" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
