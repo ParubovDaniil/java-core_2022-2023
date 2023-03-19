@@ -12,8 +12,8 @@ public class Example3 {
             String symbol = "бБвВгГдДжЖзЗйЙкКлЛмМнНпПрРсСтТфФхХцЦчЧшШщЩ";
             br = new BufferedReader(
                     new InputStreamReader(
-                            new FileInputStream("src/lr8/Example3/Poem.txt"), StandardCharsets.UTF_8));
-            out = new PrintWriter("src/lr8/Example3/Result.txt", StandardCharsets.UTF_8);
+                            new FileInputStream("src/lr8/lr10.Example3/Poem.txt"), StandardCharsets.UTF_8));
+            out = new PrintWriter("src/lr8/lr10.Example3/Result.txt", StandardCharsets.UTF_8);
 
             int str = 0;
             int words = 0;
