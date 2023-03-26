@@ -106,14 +106,14 @@ public class SpeedTest {
             };
             ArrayList<Integer> arrayList = new ArrayList<>();
 
-            System.out.println("Время выполнения операции добавление элемента в начало ArrayDeque: " + getInsertionTimeAtStartTreeSet(treeSet) + " мс");
-            System.out.println("Время выполнения операции удаление элемента в начале ArrayDeque: " + getDeletionTimeAtStartTreeSet(treeSet) + " мс");
-            System.out.println("Время выполнения операции добавление элемента в конец ArrayDeque: " + getInsertionTimeAtEndTreeSet(treeSet) + " мс");
+            System.out.println("Время выполнения операции добавление элемента в начало TreeSet: " + getInsertionTimeAtStartTreeSet(treeSet) + " мс");
+            System.out.println("Время выполнения операции удаление элемента в начале TreeSet: " + getDeletionTimeAtStartTreeSet(treeSet) + " мс");
+            System.out.println("Время выполнения операции добавление элемента в конец TreeSet: " + getInsertionTimeAtEndTreeSet(treeSet) + " мс");
             System.out.println();
-            System.out.println("Время выполнения операции добавление элемента в начало ArrayDeque: " + getInsertionTimeAtStartSortedSet(sortedSet) + " мс");
-            System.out.println("Время выполнения операции удаление элемента в начале ArrayDeque: " + getDeletionTimeAtStartSortedSet(sortedSet) + " мс");
-            System.out.println("Время выполнения операции добавление элемента в конец ArrayDeque: " + getInsertionTimeAtEndSortedSet(sortedSet) + " мс");
-            System.out.println("Время выполнения операции удаление элемента в конце ArrayDeque: " + getDeletionTimeAtEndSortedSet(sortedSet) + " мс");
+            System.out.println("Время выполнения операции добавление элемента в начало SortedSet: " + getInsertionTimeAtStartSortedSet(sortedSet) + " мс");
+            System.out.println("Время выполнения операции удаление элемента в начале SortedSet: " + getDeletionTimeAtStartSortedSet(sortedSet) + " мс");
+            System.out.println("Время выполнения операции добавление элемента в конец SortedSet: " + getInsertionTimeAtEndSortedSet(sortedSet) + " мс");
+            System.out.println("Время выполнения операции удаление элемента в конце SortedSet: " + getDeletionTimeAtEndSortedSet(sortedSet) + " мс");
 
             System.out.println();
             System.out.println("Время выполнения операции добавление элемента в начало ArrayList: " + getInsertionTimeAtStart(arrayList) + " мс");
