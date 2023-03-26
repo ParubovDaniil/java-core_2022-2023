@@ -5,31 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="866ceae7-5527-4ed9-bea2-e226a948290e" name="Changes" comment="lr10">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_logging_log4j_core.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/apache_poi_ooxml.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/json_simple_1_1_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/jsoup.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/AddNewBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/BookSearchXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/CreateXMLFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/DeleteBookXml.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/XmlParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example1/example.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonAdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonCreator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonDelete.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example2/example-json.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example3/LinkParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example3/NewsParser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example3/console.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example4/ExampleExcel.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example4/ReadExcelFileExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lr10/Example4/WriteExcelFileExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example1/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example10/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example11/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example12/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example13/SpeedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example2/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example3/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example4/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example5/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example6/Conversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example7/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example8/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lr11/Example9/Example.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/java-core_2022-2023.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java-core_2022-2023.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr10/Example1/AddNewBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/Example1/AddNewBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr10/Example1/BookSearchXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/Example1/BookSearchXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr10/Example1/DeleteBookXml.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/Example1/DeleteBookXml.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr10/Example2/JsonSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/Example2/JsonSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lr10/Example4/ReadExcelFileExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr10/Example4/ReadExcelFileExample.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/lr8/Example3/Example3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lr8/Example3/Example3.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,13 +97,13 @@
       <recent name="timus.task_2001" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ReadExcelFileExample">
-    <configuration name="JsonSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.Example2.JsonSearch" />
+  <component name="RunManager" selected="Application.lr11.Example9.Example">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.Example12.Example" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.Example2.*" />
+          <option name="PATTERN" value="lr11.Example13.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.Example3.LinkParser" />
+    <configuration name="Example01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.Example9.Example01" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.Example3.*" />
+          <option name="PATTERN" value="lr11.Example9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,12 +124,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewsParser" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.Example3.NewsParser" />
+    <configuration name="lr11.Example10.Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.Example10.Example" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.Example3.*" />
+          <option name="PATTERN" value="lr11.Example10.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -142,12 +137,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReadExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.Example4.ReadExcelFileExample" />
+    <configuration name="lr11.Example11.Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.Example11.Example" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.Example4.*" />
+          <option name="PATTERN" value="lr11.Example11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +150,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="WriteExcelFileExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="lr10.Example4.WriteExcelFileExample" />
+    <configuration name="lr11.Example9.Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lr11.Example9.Example" />
       <module name="java-core_2022-2023" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="lr10.Example4.*" />
+          <option name="PATTERN" value="lr11.Example9.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +165,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ReadExcelFileExample" />
-        <item itemvalue="Application.WriteExcelFileExample" />
-        <item itemvalue="Application.LinkParser" />
-        <item itemvalue="Application.NewsParser" />
-        <item itemvalue="Application.JsonSearch" />
+        <item itemvalue="Application.lr11.Example9.Example" />
+        <item itemvalue="Application.lr11.Example11.Example" />
+        <item itemvalue="Application.lr11.Example10.Example" />
+        <item itemvalue="Application.lr11.Example12.Example" />
+        <item itemvalue="Application.Example01" />
       </list>
     </recent_temporary>
   </component>
@@ -271,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678947917087</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lr10">
+      <created>1679237585352</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1679237585352</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -323,6 +325,51 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lr11/Example5/Recursion.java</url>
+          <line>3</line>
+          <properties class="lr11.Example5.Recursion" method="f">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lr11/Example5/Recursion.java</url>
+          <line>14</line>
+          <properties class="lr11.Example5.Recursion" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lr11/Example8/Example.java</url>
+          <line>16</line>
+          <properties class="lr11.Example8.Example" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lr11/Example9/Example.java</url>
+          <line>18</line>
+          <properties class="lr11.Example9.Example" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/lr11/Example9/Example.java</url>
+          <line>35</line>
+          <properties class="lr11.Example9.Example" method="createHead">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/lr4/Example1.java</url>
